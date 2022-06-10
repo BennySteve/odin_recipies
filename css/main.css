@@ -30,3 +30,20 @@ font-weight:bold ;
 color:#311847 ;
 display: block;
 }
+
+.chowmin,.paneer{
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+img{
+margin-top: 30px;
+margin-left: 42.5%;}
+
+p{
+text-align: center;
+font-size: 22px;
+text-decoration:none ;}
+
+p:hover{
+color:#A01A7D;}
