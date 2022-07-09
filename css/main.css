@@ -1,4 +1,4 @@
-body{
+ body{
 background-color: #e09f7d;
 }
 h1{
@@ -10,35 +10,12 @@ color:#311847 ;
 
 }
 
-.manchurian ,.chowmin,.paneer{
-margin-left:45.4%;
-background: #ec4067;
-width: 160px;
-border:outset;
-text-align: center;
-margin-top:30px ;
-border-radius: 80%;
-padding-top: 15px;
-padding-bottom: 15px;
-border-width: 10px;
-border-color: #a01a7d;
-}
-
 a{
 font-weight:bold ;
 
 color:#311847 ;
 display: block;
 }
-
-.chowmin,.paneer{
-padding-top: 0px;
-padding-bottom: 0px;
-}
-
-img{
-margin-top: 30px;
-margin-left: 42.5%;}
 
 p{
 text-align: center;
@@ -47,3 +24,7 @@ text-decoration:none ;}
 
 p:hover{
 color:#A01A7D;}
+
+img{
+margin:30px auto;
+display: block;}
