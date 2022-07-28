@@ -14,8 +14,8 @@ text-decoration:underline;
 }
 
 img{
-margin-left: 40%;
-}
+display: block;
+margin: 30px auto}
 
 .dsp,.ingt,.steps{
 margin-left: 20%;
